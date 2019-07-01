@@ -5,13 +5,13 @@ Ubuntu + Node + NPM + GoogleChrome + Docker
 
 Check docker images here: https://cloud.docker.com/repository/docker/lehamotovilov/frontend-build-container
 
-Current versions (28.12.2018):
+Current versions (02.07.2019):
 ```
 Ubuntu 16.04
-Node v10.15.0
-NPM 6.5.0
-Google Chrome 71.0.3578.98
-Docker version 18.09.0, build 4d60db4
+Node v12.5.0
+NPM 6.9.2
+Google Chrome 75.0.3770.100
+Docker version 18.09.7, build 2d0083d
 Node-sass 4.10.0
 ```
 

@@ -15,7 +15,7 @@ RUN apt-get update -y && \
     apt-get install zlib1g-dev -y
 
 # Install Node.
-RUN curl -sL https://deb.nodesource.com/setup_10.x | bash - && \
+RUN curl -sL https://deb.nodesource.com/setup_12.x | bash - && \
     apt-get install nodejs -y
 
 # Install GoogleChrome for e2e tests.
